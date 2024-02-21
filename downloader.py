@@ -27,5 +27,3 @@ class Downloader:
 
         except Exception as error:
           print(f'An exception occurred: {error}')
-        pass
-
